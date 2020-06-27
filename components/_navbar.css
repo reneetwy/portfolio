@@ -1,0 +1,13 @@
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: grey;
+}
+
+
+.navbar-right{
+  justify-content: center;
+  align-items: center;
+
+}
